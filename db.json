@@ -1,0 +1,135 @@
+{
+  "user": {
+    "id": 56,
+    "nom": "userTest",
+    "role": "roleTest",
+    "urlPhoto": "https://img-0.journaldunet.com/8Lx3YQeOcn4AzbwIH3NzsuWBc38=/1500x/smart/1502e1bca6ce409c87a54d0da9158267/ccmcms-jdn/16511568.png"
+  },
+  "cartier": {
+    "centralisation": [
+      {
+        "id": 1,
+        "raisonSocial": "coca-cola",
+        "siret": "110 880 658 865",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bleuet",
+          "ville": "Massy",
+          "codePostal": "91300"
+        },
+        "majDate": ""
+      },
+      {
+        "id": 2,
+        "raisonSocial": "apple",
+        "siret": "222 457 538 259",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Gre",
+          "ville": "Dijon",
+          "codePostal": "21000"
+        },
+        "majDate": ""
+      },
+      {
+        "id": 3,
+        "raisonSocial": "raison social",
+        "siret": "158 887 658 257",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bossuet",
+          "ville": "Lyon",
+          "codePostal": "69009"
+        },
+        "majDate": ""
+      }
+    ],
+    "finaliser": [
+      {
+        "id": 10,
+        "raisonSocial": "coca-cola",
+        "siret": "110 880 658 865",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bleuet",
+          "ville": "Massy",
+          "codePostal": "91300"
+        },
+        "majDate": ""
+      },
+      {
+        "id": 20,
+        "raisonSocial": "apple",
+        "siret": "222 457 538 259",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Gre",
+          "ville": "Dijon",
+          "codePostal": "21000"
+        },
+        "majDate": ""
+      }
+    ],
+    "majRecement": [
+      {
+        "id": 30,
+        "raisonSocial": "raison social30",
+        "siret": "158 887 658 257",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bossuet",
+          "ville": "Lyon",
+          "codePostal": "69009"
+        },
+        "majDate": ""
+      },
+      {
+        "id": 31,
+        "raisonSocial": "raison social31",
+        "siret": "158 887 658 257",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bossuet",
+          "ville": "Lyon",
+          "codePostal": "69009"
+        },
+        "majDate": ""
+      }
+    ],
+    "dernierCreations": [
+      {
+        "id": 35,
+        "raisonSocial": "raison social35",
+        "siret": "158 887 658 257",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bossuet",
+          "ville": "Lyon",
+          "codePostal": "69009"
+        },
+        "majDate": ""
+      },
+      {
+        "id": 37,
+        "raisonSocial": "raison social37",
+        "siret": "158 887 658 257",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bossuet",
+          "ville": "Lyon",
+          "codePostal": "69009"
+        },
+        "majDate": ""
+      }
+    ]
+  }
+}
