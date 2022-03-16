@@ -10,6 +10,7 @@
       {
         "id": 1,
         "raisonSocial": "coca-cola",
+        "personNom": "Marie Allin",
         "siret": "110 880 658 865",
         "siren": "SARL",
         "adress": {
@@ -18,11 +19,13 @@
           "ville": "Massy",
           "codePostal": "91300"
         },
-        "majDate": ""
+        "majDate": null,
+        "createDate": "Fri Mar 08 2019 12:31:43 GMT+0100"
       },
       {
         "id": 2,
         "raisonSocial": "apple",
+        "personNom": "Martin Beron",
         "siret": "222 457 538 259",
         "siren": "SARL",
         "adress": {
@@ -31,26 +34,15 @@
           "ville": "Dijon",
           "codePostal": "21000"
         },
-        "majDate": ""
-      },
-      {
-        "id": 3,
-        "raisonSocial": "raison social",
-        "siret": "158 887 658 257",
-        "siren": "SARL",
-        "adress": {
-          "id": 1,
-          "adress": "rue Bossuet",
-          "ville": "Lyon",
-          "codePostal": "69009"
-        },
-        "majDate": ""
+        "majDate": null,
+        "createDate": "Fri Mar 04 2016 11:31:43 GMT+0100"
       }
     ],
     "finaliser": [
       {
         "id": 10,
         "raisonSocial": "coca-cola",
+        "personNom": "Richard Barren",
         "siret": "110 880 658 865",
         "siren": "SARL",
         "adress": {
@@ -59,11 +51,13 @@
           "ville": "Massy",
           "codePostal": "91300"
         },
-        "majDate": ""
+        "majDate": "",
+        "createDate": "Fri Mar 02 2019 11:31:43 GMT+0100"
       },
       {
         "id": 20,
         "raisonSocial": "apple",
+        "personNom": "Thomas Dubois",
         "siret": "222 457 538 259",
         "siren": "SARL",
         "adress": {
@@ -72,13 +66,15 @@
           "ville": "Dijon",
           "codePostal": "21000"
         },
-        "majDate": ""
+        "majDate": "",
+        "createDate": "Fri Mar 02 2015 11:31:43 GMT+0100"
       }
     ],
     "majRecement": [
       {
         "id": 30,
         "raisonSocial": "raison social30",
+        "personNom": "Thomas Baron",
         "siret": "158 887 658 257",
         "siren": "SARL",
         "adress": {
@@ -87,11 +83,13 @@
           "ville": "Lyon",
           "codePostal": "69009"
         },
-        "majDate": ""
+        "majDate": "Fri Mar 11 2022 12:31:43 GMT+0100",
+        "createDate": "Fri Mar 02 2015 11:31:43 GMT+0100"
       },
       {
         "id": 31,
         "raisonSocial": "raison social31",
+        "personNom": "Thomas Lefevre",
         "siret": "158 887 658 257",
         "siren": "SARL",
         "adress": {
@@ -100,13 +98,15 @@
           "ville": "Lyon",
           "codePostal": "69009"
         },
-        "majDate": ""
+        "majDate": "Fri Mar 13 2022 12:31:43 GMT+0100",
+        "createDate": "Fri Mar 02 2015 11:31:43 GMT+0100"
       }
     ],
     "dernierCreations": [
       {
         "id": 35,
         "raisonSocial": "raison social35",
+        "personNom": "Vincent Fontaine",
         "siret": "158 887 658 257",
         "siren": "SARL",
         "adress": {
@@ -115,11 +115,13 @@
           "ville": "Lyon",
           "codePostal": "69009"
         },
-        "majDate": ""
+        "majDate": "Fri Mar 06 2022 12:31:43 GMT+0100",
+        "createDate": "Fri Mar 02 2015 11:31:43 GMT+0100"
       },
       {
         "id": 37,
         "raisonSocial": "raison social37",
+        "personNom": "Andre Blanc",
         "siret": "158 887 658 257",
         "siren": "SARL",
         "adress": {
@@ -128,8 +130,119 @@
           "ville": "Lyon",
           "codePostal": "69009"
         },
-        "majDate": ""
+        "majDate": "Fri Mar 07 2022 12:31:43 GMT+0100",
+        "createDate": "Fri Mar 02 2015 11:31:43 GMT+0100"
       }
     ]
-  }
+  },
+  "propositions": [
+    {
+      "partenaire": {
+        "id": 1,
+        "raisonSocial": "coca-cola",
+        "personNom": "Marie Allin",
+        "siret": "110 880 658 865",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Bleuet",
+          "ville": "Massy",
+          "codePostal": "91300"
+        },
+        "majDate": null,
+        "createDate": "Fri Mar 08 2019 12:31:43 GMT+0100"
+      },
+      "listPartenairesProposition": [
+        {
+          "id": 100,
+          "raisonSocial": "cocaAAA-cola",
+          "personNom": "Marie Allin",
+          "siret": "110 880 658 834",
+          "siren": "SARLU",
+          "adress": {
+            "id": 1,
+            "adress": "rue Bleuet",
+            "ville": "Massy",
+            "codePostal": "91300"
+          },
+          "majDate": null,
+          "createDate": "Fri Mar 08 2010 12:31:43 GMT+0100"
+        },
+        {
+          "id": 1000,
+          "raisonSocial": "coca-colaaaa",
+          "personNom": null,
+          "siret": "110 880 658 865",
+          "siren": null,
+          "adress": {
+            "id": 1,
+            "adress": "rue Bleuet",
+            "ville": "Massy",
+            "codePostal": "91300"
+          },
+          "majDate": null,
+          "createDate": "Fri Mar 08 2009 12:31:43 GMT+0100"
+        }
+      ]
+    },
+    {
+      "partenaire": {
+        "id": 2,
+        "raisonSocial": "apple",
+        "personNom": "Martin Beron",
+        "siret": "222 457 538 259",
+        "siren": "SARL",
+        "adress": {
+          "id": 1,
+          "adress": "rue Gre",
+          "ville": "Dijon",
+          "codePostal": "21000"
+        },
+        "majDate": null,
+        "createDate": "Fri Mar 04 2016 11:31:43 GMT+0100"
+      },
+      "listPartenairesProposition": [
+        {
+          "id": 20,
+          "raisonSocial": "appleee",
+          "personNom": "Francois Blanc",
+          "siret": "222 457 538 259",
+          "siren": "SARL",
+          "adress": {
+            "id": 1,
+            "adress": "rue Greee",
+            "ville": "Lyon",
+            "codePostal": "21000"
+          },
+          "majDate": null,
+          "createDate": "Fri Mar 04 2017 11:31:43 GMT+0100"
+        },
+        {
+          "id": 200,
+          "raisonSocial": "apple",
+          "personNom": "François Blanc",
+          "siret": "222 457 538 259",
+          "siren": "SARLAA",
+          "adress": {
+            "id": 1,
+            "adress": "rue Gre",
+            "ville": "Dijon",
+            "codePostal": "21000"
+          },
+          "majDate": null,
+          "createDate": "Fri Mar 04 2010 11:31:43 GMT+0100"
+        },
+        {
+          "id": 202,
+          "raisonSocial": "apple",
+          "personNom": "Martin Beron",
+          "siret": "222 457 538 259",
+          "siren": "SARLOP",
+          "adress": null,
+          "majDate": null,
+          "createDate": "Fri Mar 04 2000 11:31:43 GMT+0100"
+        }
+      ]
+    }
+  ]
 }
